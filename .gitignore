@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+scraper/proxy.txt
+.env
+
+# Scraper checkpoints and logs (re-creatable, large)
+data/_state/
+
+# Generated copy of data/lancers_profiles.csv used by the website
+web/data/lancers_profiles.csv
+
+# OS / editor
+.DS_Store
+.vscode/
