@@ -1,0 +1,5 @@
+# Copy this file to proxy.txt and put your proxy on the first non-comment line.
+# Either format works:
+#   http://USER:PASSWORD@HOST:PORT
+#   HOST:PORT:USER:PASSWORD
+HOST:PORT:USER:PASSWORD
